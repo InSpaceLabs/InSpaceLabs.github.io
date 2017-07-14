@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Aerospace Consultancy",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -389,7 +389,7 @@
           },
           "title": "High Altitude Balloon",
           "text": "High altitude balloons are poor man's access to the space. Low cost, near space environment, above the 99% of the atmosphere offers a unique opportunity of communication and experimental studies.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Balloon.html#content1-1y\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -1018,61 +1018,6 @@
             "bgColor": "#fff"
           },
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Benefits of the InSpace Labs to university satellites</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Direction to start the project or revive the project</span><br></li><li>Design and testing related procedure at the start of the project</li><li>Systems engineering and project management related guidance</li><li>First hand experience of design and launching of satellite</li><li>Help in avoiding the design and testing related mistakes in the early stages of the project</li></ul><p><br></p><p><b>Our strength in the small satellite consultancy especially university satellites are</b></p><ul><li>Design and systems engineering of the satellite</li><li>Project management and team building&nbsp;</li><li>Subsystem design and testing</li><li>Experience of dealing with ISRO</li><li>Launch and mission related parameters</li></ul><p><br></p><p><br></p>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-1x",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "FULL WIDTH INTRO",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
