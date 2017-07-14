@@ -346,8 +346,8 @@
           "_anchor": "msg-box7-1i",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
@@ -411,13 +411,13 @@
           "_name": "features3",
           "_anchor": "features3-1m",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -430,11 +430,11 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture1-600x752.jpg",
+              "src": "@PROJECT_PATH@/assets/images/military-600x441.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -450,22 +450,30 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Emergency Response",
           "subtitle2": "ITs not about money, its about saving lives",
           "caption2": "At the time of emergency,&nbsp;terrestrial communication channels fail. Tethered or non tethered balloon can act as a temporary communication platform, improving communication range from 5-10 km to 600 km",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/spacecollage-600x382.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Testing of Space Systems",
@@ -474,10 +482,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Scientific Study and Weather Monitoring",
@@ -1689,7 +1701,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tushar-photo-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tushar_photo-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1705,7 +1717,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://in.linkedin.com/in/tushar-jadhav-a4921315\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/manvi-photo-600x614.jpg",
+              "src": "@PROJECT_PATH@/assets/images/manvi_photo-600x614.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1721,7 +1733,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://in.linkedin.com/in/manvidhawan\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ashtesh-photo-600x601.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ashtesh_photo-600x601.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1845,7 +1857,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sir1-photo-600x480.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sir1_photo-600x480.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1861,7 +1873,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.aero.iitb.ac.in/~sudhakar/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/si3-photo-600x727.jpg",
+              "src": "@PROJECT_PATH@/assets/images/si3_photo-600x727.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1877,7 +1889,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"http://www.che.iitb.ac.in/online/faculty/sachin-c-patwardhan\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sir2-photo-600x724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sir2_photo-600x724.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1982,7 +1994,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hussain-photo-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hussain_photo-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2734,7 +2746,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hi-lift-mesh-transport-sim-2000x1086.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hi_lift_mesh_transport_sim-2000x1086.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3533,7 +3545,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/green-propellant-1400x430.jpg",
+              "src": "@PROJECT_PATH@/assets/images/green%20propellant-1400x430.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3697,7 +3709,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hi-lift-mesh-transport-sim-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hi_lift_mesh_transport_sim-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
