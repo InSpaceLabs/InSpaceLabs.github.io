@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -481,7 +480,7 @@ h6,
 #header1-1 .mbr-section-lead {
   font-size: 48px;
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Roboto', sans-serif;
   text-align: right;
 }
 #header5-2g .mbr-section-title {
