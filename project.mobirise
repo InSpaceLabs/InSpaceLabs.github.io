@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "InSpace Labs",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -158,7 +158,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "\"We can not solve the problems with the same thinking we used&nbsp;when<br> we created them\"<br>-Albert Einstein",
+          "text": "\"We can not solve the problems with the same thinking we used&nbsp;when<br> we created them\"<br><br>-Albert Einstein",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
