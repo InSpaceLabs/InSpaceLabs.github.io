@@ -1659,18 +1659,18 @@ h6,
 #menu-1n .close-icon::after {
   background-color: #2969b0;
 }
-#header3-3q .mbr-section-title,
-#header3-3q .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-3q H3 {
-  font-size: 24px;
-}
 #header3-41 .mbr-section-title,
 #header3-41 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-41 H3 {
+  font-size: 24px;
+}
+#header3-42 .mbr-section-title,
+#header3-42 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-42 H3 {
   font-size: 24px;
 }
 #features1-3m .striped .mbr-cards-col:nth-child(2n+1) {
