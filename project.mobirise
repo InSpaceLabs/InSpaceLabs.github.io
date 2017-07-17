@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -170,7 +170,8 @@
             ".mbr-section-lead": {
               "color": "#232323",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -198,7 +199,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "InSpace Labs operating under Manastu Space Technologies Pvt Ltd is founded by 3 IIT Bombay alumni, former project managers and team members of Pratham, IIT Bombay Student Satellite. We are aiming to provide low cost solutions to Aerospace problems. The vision of the company is to pioneer technological advancements in Aerospace with a motto of “Redefine and Re-innovate with zero defect”. Our company aims to provide support and share the load of DRDO and ISRO in Aerospace research and development. Apart from technology advancement, we believe that it is our responsibility to provide opportunities for the upliftment of youth.",
+          "text": "InSpace Labs operating under Manastu Space Technologies Pvt Ltd is founded by 3 IIT Bombay alumni, former project managers and team members of Pratham, IIT Bombay Student Satellite which was launched on PSLV-C35 on 26th Sept 2016<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>We are aiming to provide low cost solutions to Aerospace problems. <br>The vision of the company is <br>&nbsp; &nbsp; &nbsp; &nbsp;• To pioneer technological advancements in Aerospace with a motto of “Redefine &nbsp; &nbsp;and Re-innovate with zero defect”. <br>&nbsp; &nbsp; &nbsp; &nbsp;• To provide support and share the load of DRDO and ISRO in Aerospace research and development. <br>&nbsp; &nbsp; &nbsp; &nbsp;• Apart from technology advancement, we believe that it is our responsibility to provide opportunities for the upliftment of youth.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -3528,53 +3529,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">VISION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Balloon.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PRODUCS &amp; &nbsp;SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product &amp; Services#msg-box5-3i\">Green Propelllant Technologies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product &amp; Services#msg-box5-3g\">GNC Solutions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product &amp; Services#msg-box5-3j\">Project 'Up'</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product &amp; Services#msg-box5-3f\">Aerospace Consultancy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product &amp; Services#msg-box5-3e\">Satellite Consultancy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us#header5-2h\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us#header3-3q\">Our Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us#header3-3p\">Advisory Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About Us#header3-3u\">Industrial Partners</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000",
-              "font-size": "24px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead SPAN": {
-              "text-align": "left",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-2h",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Who We Are?",
-          "text": "<span style=\"font-style: normal;\">InSpace Labs operating under Manastu Space Technologies Pvt Ltd is founded by 3 IIT Bombay alumni, former project managers and team members of Pratham, IIT Bombay Student Satellite. We are aiming to provide low cost solutions to Aerospace problems. The vision of the company is to pioneer technological advancements in Aerospace with a motto of “Redefine and Re-innovate with zero defect”. Our company aims to provide support and share the load of DRDO and ISRO in Aerospace research and development. Apart from technology advancement, we believe that it is our responsibility to provide opportunities for the upliftment of youth.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -3590,6 +3550,29 @@
           },
           "title": "Our Team",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-41",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Our Team",
+          "meta": ""
         },
         {
           "_tags": [
@@ -3654,7 +3637,7 @@
             }
           },
           "title2": "Manvi Dhawan",
-          "subtitle2": "COO and CO-Founder",
+          "subtitle2": "COO and Co-Founder",
           "caption2": "Ex-Head of Navigation, Guidance and Controls, Project Manager of Pratham, IIT Bombay Student Satellite<br><br>Education: MTech + BTech, Aerospace, IIT Bombay<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://in.linkedin.com/in/manvidhawan\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
@@ -3731,6 +3714,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -3874,6 +3860,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -3940,7 +3929,12 @@
           },
           "title": "Hussain Manasawala",
           "text": "CTO Entwine Mobisoft Technologies, Head Electrical Hardware and Software of Pratham,&nbsp;IIT Bombay Satellite &nbsp;<br><br>Education: MTech + BTech, Electrical Engineering, IIT Bombay",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://in.linkedin.com/in/hussainmanasa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://in.linkedin.com/in/hussainmanasa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          }
         }
       ]
     }

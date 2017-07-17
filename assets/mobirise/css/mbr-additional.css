@@ -490,6 +490,7 @@ h6,
 #header5-2g .mbr-section-lead {
   color: #232323;
   font-family: 'Lora', serif;
+  text-align: left;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -1595,7 +1596,6 @@ h6,
   font-size: 24px;
 }
 
-
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1659,20 +1659,19 @@ h6,
 #menu-1n .close-icon::after {
   background-color: #2969b0;
 }
-#header5-2h .mbr-section-title {
-  color: #000;
-  font-size: 24px;
-}
-#header5-2h .mbr-section-lead {
-  color: #000000;
-}
-#header5-2h .mbr-section-lead SPAN {
-  text-align: left;
-  font-family: 'Raleway', sans-serif;
-}
 #header3-3q .mbr-section-title,
 #header3-3q .mbr-section-subtitle {
   text-align: center;
+}
+#header3-3q H3 {
+  font-size: 24px;
+}
+#header3-41 .mbr-section-title,
+#header3-41 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-41 H3 {
+  font-size: 24px;
 }
 #features1-3m .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -1681,10 +1680,19 @@ h6,
 #header3-3p .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3p H3 {
+  font-size: 24px;
+}
 #features1-3n .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #header3-3u .mbr-section-title,
 #header3-3u .mbr-section-subtitle {
   text-align: center;
+}
+#header3-3u H3 {
+  font-size: 24px;
+}
+#header2-3t .mbr-section-title {
+  font-size: 24px;
 }
