@@ -3184,7 +3184,12 @@
           },
           "title": "<br>Green Propellant Technology",
           "text": "Green propellant-mono-propellant thruster based on premixed hydrogen peroxide and hydrocarbon which offers 30 % higher specific impulse and is also non toxic as compared to regular hydrazine, hence can be a potential green alternative to current mono-propellant propulsion technology.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -3194,7 +3199,7 @@
           "_anchor": "msg-box5-3g",
           "_params": {
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -3237,7 +3242,12 @@
           },
           "title": "GNC &nbsp;Solutions",
           "text": "Our ADCS combines the best of both worlds, comprising standardized, Off-The-Shelf hardware components controlled by tailored algorithms tuned by our expert engineers to meet your specific orbit and satellite configuration. The comprehensive algorithms are subjected to an extensive verification process, using HILS and multiple different modelling environments.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"gnc.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"gnc.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -3247,12 +3257,15 @@
           "_styles": {
             "P": {
               "text-align": "right"
+            },
+            "H3": {
+              "font-size": "24px"
             }
           },
           "_anchor": "msg-box5-3j",
           "_params": {
             "imageSize": "41",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -3305,7 +3318,7 @@
           "_anchor": "msg-box5-3f",
           "_params": {
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -3348,7 +3361,12 @@
           },
           "title": "Aerospace Consultancy",
           "text": "Number of prototypes that needs to be build to check integration and number of testing that needs to be done to test the performance of the system has reduced drastically. Engineers can design and build complex systems with lesser safety of margin with more confidence with better performance. InSpace labs wants to help its customers exactly this i.e. better performance with lesser margins using prior accuate simulations. This indeed can be achieved. Extensive experience of the InSpace Labs team will enable you to take fast decisions in short time and hence improve the productivity.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Software Services.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Software Services.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -3401,7 +3419,12 @@
           },
           "title": "Satellite Consultancy",
           "text": "Small satellites are revolutionilizing the way space engineering is done and universities are important part of this change. See how InSpace Labs can help your university to be the  part of this change",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Satellite Services.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Satellite Services.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
         }
       ]
     },
