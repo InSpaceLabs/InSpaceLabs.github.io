@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -415,84 +413,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#menu-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-0 .navbar-caption {
-  color: #ffffff;
-  font-size: 24px;
-  font-family: 'Roboto', sans-serif;
-}
-#menu-0 .navbar-toggler {
-  color: #2969b0;
-}
-#menu-0 .link,
-#menu-0 .dropdown-item {
-  color: #2969b0;
-}
-#menu-0 .link {
-  font-size: 1rem;
-}
-#menu-0 .dropdown-item,
-#menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-0 .link:hover,
-#menu-0 .dropdown-item:hover,
-#menu-0 .link:focus,
-#menu-0 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-0 .nav-dropdown-sm .link:focus,
-#menu-0 .nav-dropdown-sm .link:hover,
-#menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-0 .navbar,
-#menu-0 .nav-dropdown-sm,
-#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-0 .bg-color.transparent .link {
-  color: #2969b0;
-  transition: none;
-}
-#menu-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-0 .bg-color.transparent.opened .link:hover,
-#menu-0 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-0 .close-icon::before,
-#menu-0 .close-icon::after {
-  background-color: #2969b0;
-}
-#header1-1 .mbr-section-lead {
-  font-size: 48px;
-  color: #ffffff;
-  font-family: 'Lora', serif;
-  text-align: right;
-}
-#header5-2g .mbr-section-title {
-  color: #000;
-}
-#header5-2g .mbr-section-lead {
-  color: #232323;
-  font-family: 'Lora', serif;
-  text-align: left;
-}
-
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1695,4 +1615,84 @@ h6,
 }
 #header2-3t .mbr-section-title {
   font-size: 24px;
+}
+
+
+
+#menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-0 .navbar-caption {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-0 .navbar-toggler {
+  color: #2969b0;
+}
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #2969b0;
+}
+#menu-0 .link {
+  font-size: 1rem;
+}
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-0 .bg-color.transparent .link {
+  color: #2969b0;
+  transition: none;
+}
+#menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
+  background-color: #2969b0;
+}
+#header1-1 .mbr-section-lead {
+  font-size: 48px;
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  text-align: right;
+}
+#header5-2g .mbr-section-title {
+  color: #000;
+}
+#header5-2g .mbr-section-lead {
+  color: #232323;
+  font-family: 'Lora', serif;
+  text-align: left;
 }
